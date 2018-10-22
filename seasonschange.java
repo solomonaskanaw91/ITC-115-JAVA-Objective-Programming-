@@ -1,7 +1,7 @@
 //Create a season method that passes two integers (month,day) as the parameter. 
 //The conditional are based on the seasons of the year and what randon number is entered by the user as a input.
 //The ranges of dates to season are the following  12/16 and 3/15, Winter,3/16 and 6/15 Sping, 9/16 and 12/15 Fall.
-
+package season; 
 import java.util.*;
 
 public class seasonschange{
